@@ -10,9 +10,11 @@ Note: Soon we will make available the full code , we are just finishing some cha
 
 
 Architecture
+
+
 <img src="https://raw.githubusercontent.com/poanetwork/nifty-wallet/master/docs/architecture.png" alt=""/>
 
-https://raw.githubusercontent.com/poanetwork/nifty-wallet/master/docs/architecture.png
+
 
 
 
